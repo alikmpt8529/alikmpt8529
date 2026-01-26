@@ -1,6 +1,6 @@
-# 👋 Welcome to My GitHub Profile!
+# ようこそ!
 
-## 👨‍💻 Languages and Tools I Use:
+## Language:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -15,4 +15,4 @@
 ## 🌟 About Me:
 - 🌱 I’m currently learning **TypeScript**.
 - 🔭 Working on exciting **open-source** projects.
-- 🌐 Check out my [website](https://example.com) for more information.
+- 🌐 Check out my [website](https://test9-883.pages.dev/) for more information.
