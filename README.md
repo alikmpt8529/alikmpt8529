@@ -7,12 +7,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alikmpt8529&layout=compact)
 
 ---
 
-## 🌟 About Me:
-- 🌱 I’m currently learning **TypeScript**.
-- 🔭 Working on exciting **open-source** projects.
-- 🌐 Check out my [website](https://test9-883.pages.dev/) for more information.
+## おしらせ:
+- 🌐  [homepage](https://test9-883.pages.dev/) にて過去の制作作品の一部を公開しています！
